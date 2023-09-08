@@ -308,4 +308,12 @@ class MainActivity : ComponentActivity() {
                 })
         }
     }
+
+    fun downloadGifs(){
+
+    }
+
+    fun share(){
+
+    }
 }
